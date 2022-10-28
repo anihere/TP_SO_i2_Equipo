@@ -9,7 +9,7 @@ Falta 1 estudiante en nuestro grupo no se a podido verificar.
 d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quiero actualizar
 el fork?
 
-Los datos de mi repositorio editados por mi o creados por mi o eliminados por mi, se pierden solo si tienen el mismo nombre de archivo.
+Los datos de mi repositorio editados por mi o creados por mi o eliminados por mi, se pierden o se modifican solo si es el mismo archivo
 
 e- realizar un listado, paso a paso ,de los comando necesarios para resolver este TP por
 orden de ejecución de los mismos junto con los apellidos y nombre de los alumnos ,
