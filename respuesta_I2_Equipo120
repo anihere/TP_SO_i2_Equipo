@@ -12,7 +12,7 @@ Falta 1 estudiante en nuestro grupo no se ha podido verificar.
 d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quiero actualizar
 el fork?
 
-Si de la persona que tengo forkeado el repositorio lo  actualiza, en el repositorio forekeado hubo alguna modificacion, pierdo la informacion o la modifica. 
+Los datos de mi respositorio, editados por mi, se pierden al actualizar el fork si dichos datos son modificados o eliminados del repositorio orignal.
 
 e- realizar un listado, paso a paso ,de los comando necesarios para resolver este TP por
 orden de ejecución de los mismos junto con los apellidos y nombre de los alumnos ,
