@@ -4,11 +4,16 @@ Cristian Barrio
 a-¿Como actualizo mi repositorio, al estado que esté el repo que hice FORK?
 El repositorio se actualiza utilizando la función Sync fork de Github.
 b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
+Falta 1 estudiante.
 c-¿Puede GAMMA actualizar su FORK al estado del fork de ALFA?
+Falta 1 estudiante
 d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quiero actualizar
 el fork?
+Los datos de mi repositorio, edidatos por mi, se pierden al actualizar el fork si dichos datos son modificados o eliminados del repositorio original.
+
 e- realizar un listado, paso a paso ,de los comando necesarios para resolver este TP por
 orden de ejecución de los mismos junto con los apellidos y nombre de los alumnos 
+
 Cristian Barrio (ALFA) 
 Fork al repositorio de BETA
 git clone https://github.com/CristianBarrio/TP_SO_i2_Equipo120.git
